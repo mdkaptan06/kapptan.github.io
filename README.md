@@ -1,2 +1,0 @@
-# kapptan.github.io
-kapptan
